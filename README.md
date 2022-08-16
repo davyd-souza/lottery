@@ -1,5 +1,5 @@
 <h1 align="center">
-  🎲 <a href="https://fancy-cannoli-ed8367.netlify.app/">Lottery App</a>
+  🍀 Lottery App
 </h1>
 <p align="center">Application made with react which will generate random numbers for Lottery</p>
 <p align="center">
