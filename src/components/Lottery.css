@@ -1,0 +1,34 @@
+.Lottery {
+  width: 90%;
+  min-height: 15vh;
+  margin: 0.7rem;
+  padding: 0.7rem;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  background-color: #4D4141;
+}
+
+.Lottery-list {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.Lottery h2 {
+  color: #FFF;
+  text-transform: uppercase;
+}
+
+.Lottery button {
+  width: 10rem;
+  padding: 0.5rem;
+  background-color: #FFCDD2;
+  border: 0;
+  color: #0C0C0C;
+  font-size: 0.8rem;
+}
+
+.Lottery button:hover {
+  cursor: pointer;
+  background-color: #FD7D96;
+}
